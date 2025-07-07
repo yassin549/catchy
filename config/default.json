@@ -1,0 +1,5 @@
+{
+  "database": {
+    "url": "postgresql://evershop_db_q2dr_user:tfDkNOfJ7wG674QeBNpP30R05Rl1F5lY@dpg-d1lb19adbo4c739pnn50-a.oregon-postgres.render.com/evershop_db_q2dr"
+  }
+} 
